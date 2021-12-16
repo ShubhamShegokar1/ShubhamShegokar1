@@ -7,11 +7,10 @@
 -   ⚡ I like to play games and Travelling. <br/>
 -   🗺️ Want to know more? Check out my portfolio <a target="_blank" href="https://shubham-shegokar.netlify.app/">here 🌐</a> <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shubhamshegoka5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubhamshegoka5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-shegokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-shegokar" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ---
 
