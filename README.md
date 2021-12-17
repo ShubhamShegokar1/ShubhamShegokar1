@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me</h3>
 <a href="https://www.linkedin.com/in/shubham-shegokar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:shubhamsandy.1@gmail.com"><img alt="shubhamsandy.1@gmail.com" src="https://img.shields.io/badge/shubhamsandy.1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=shubhamsandy.1@gmail.com"><img alt="shubhamsandy.1@gmail.com" src="https://img.shields.io/badge/shubhamsandy.1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
 
