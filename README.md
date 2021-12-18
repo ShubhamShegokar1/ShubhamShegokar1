@@ -19,12 +19,12 @@
 
 ---
 
-<a href="https://github.com/bloedboemmel">
+<a href="https://github.com/ShubhamShegokar1">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=ShubhamShegokar1&show_icons=true&theme=radical" height="200"/>
   
 </a>
 
-<a href="https://github.com/bloedboemmel">
+<a href="https://github.com/ShubhamShegokar1">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=ShubhamShegokar1&theme=radical"  height="200"/>
 </a>
 
