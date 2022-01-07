@@ -1,7 +1,6 @@
 
 ### <h1 align="center">Hi, I'm Shubham Shegokar<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> </h1> 
 ![profile count](https://komarev.com/ghpvc/?username=ShubhamShegokar1&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/ShubhamShegokar1?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 
 <p align="center">Software Engineer from India</p>
 
