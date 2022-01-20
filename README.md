@@ -4,9 +4,6 @@
 
 <p align="center">Software Engineer from India</p>
 
-I had zero knowledge about coding. The teacher wrote the program of addition of two numbers on the board and I wrote <studio.h> instead of <stdio.h> on lab computer. Then I had asked my friends why my program is not running, then after 5 minutes of review of my code they pointed out my mistake and he told all our friends. All my friends laughed so much at me. And this is how I had started my career in the tech world.
-
-<bold>But today my attitude toward the tech world is totally different. Now I like solving tech problems. Now I feel proud of what I do.</bold>
 
  👨🏻‍💻 &nbsp;About Me
 -   💻 A full stack web developer.
